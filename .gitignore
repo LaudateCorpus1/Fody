@@ -40,7 +40,7 @@
 packages/
 ForSample/
 NuGetCecilBuild/
-NugetBuild/
+NuGetBuild/
 ChocolateyNuGetBuild/
 
 # Visual Studio profiler
